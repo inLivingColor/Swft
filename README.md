@@ -6,4 +6,5 @@ By using the Ethereum network and its smart contract capabilities, we can hold v
 This Online Used-Goods for Crypto market will have such items as used goods, collectibles, antiques, and vintage clothing can be purchase using verified cyrptocurrencies. 
 
 SWFT Auction House Smart Contract Workflow
-<img width="1177" alt="Screen Shot 2022-01-14 at 10 28 57 AM" src="https://user-images.githubusercontent.com/87771983/149559023-2d95b27c-6f4e-4b04-86ed-5936917b06b8.png">
+<img width="1160" alt="Screen Shot 2022-01-14 at 10 45 12 AM" src="https://user-images.githubusercontent.com/87771983/149561111-1e0f407a-99bd-4f9c-99bc-158a643eea33.png">
+
