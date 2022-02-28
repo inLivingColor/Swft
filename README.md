@@ -3,5 +3,5 @@ Swft is a decentralized classified advertising website that allows users to buy 
 
 
 SWFT Auction House Smart Contract Workflow
-<img width="1160" alt="Screen Shot 2022-01-14 at 10 45 12 AM" src="https://user-images.githubusercontent.com/87771983/149561111-1e0f407a-99bd-4f9c-99bc-158a643eea33.png">
 
+![noname](https://user-images.githubusercontent.com/87771983/156027798-e2b714c3-95a5-4f47-b3c6-20434d4962d5.png)
